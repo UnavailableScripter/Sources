@@ -1,5 +1,5 @@
-local customMessage = nil
-local Type = nil -- Change to Curious Light to have Curious Light layout
+customMessage = nil
+Type = nil -- Change to Curious Light to have Curious Light layout
 local activeType = nil
 
 if Type = "Guiding Light" then
