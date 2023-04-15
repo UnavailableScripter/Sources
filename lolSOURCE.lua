@@ -1,5 +1,2 @@
 game.Players.LocalPlayer.Character.Humanoid.Died:Connect(function()
-firesignal(game.ReplicatedStorage.EntityInfo.DeathHint.OnClientEvent, {"LSPLASH is gonna jiggle and tickle your balls.", "Let that cummie come out.", "Lemme drink that tasty cum", "I shit out my dick btw"}, "fatass") end)
-game.Players.LocalPlayer.Character.Humanoid.Health = 0
-wait(15)
-game.Players.LocalPlayer:Kick("haha that cummie tasted so good lemme get some more.")
+firesignal(game.ReplicatedStorage.EntityInfo.DeathHint.OnClientEvent, {"LSPLASH is gonna jiggle and tickle your balls.", "Let that cummie come out.", "Lemme drink that tasty cum", "I shit out my dick btw", "Let that cummie in my mouth", "Im gonna suck it until your intestines fall out", "Im gonna suck your fuckey wuckey dick", "Let that cummie in my mouth NOW"}, "White") end)
