@@ -9,7 +9,7 @@ model.Center.Prompt.Triggered:Connect(function()
     model.Center.Prompt.Enabled = false
                
     task.spawn(function() 
-        _G.Uses = 1
+        _G.Uses = math.huge
         _G.Range = 30
         _G.OnAnything = true
         _G.Fail = false
