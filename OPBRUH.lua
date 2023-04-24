@@ -1,1 +1,1 @@
-game.ReplicatedStorage.ItemShop.Lighter.Price = 5
+game.ReplicatedStorage.ItemShop.Lighter.Price = "5"
