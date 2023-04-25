@@ -25,7 +25,7 @@ local Ambush = Spawner.createEntity({
     },
     CamShake = {
         Enabled = true,
-        Values = {40, 30, 20, 48},
+        Values = {16, 20, 16, 4},
         Range = 100
     },
     ResistCrucifix = false,
