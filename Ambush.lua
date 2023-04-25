@@ -36,3 +36,5 @@ local Ambush = Spawner.createEntity({
 
 ---====== Run entity ======---
 Spawner.runEntity(Ambush)
+
+--yay
