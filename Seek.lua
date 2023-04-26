@@ -6,7 +6,7 @@ local Spawner = loadstring(game:HttpGet("https://raw.githubusercontent.com/Regul
 
 local NerdEntity = Spawner.createEntity({
     CustomName = "Seek",
-    Model = "https://github.com/UnavailableScripter/Doors-Models/blob/main/Seek.rbxm?raw=true", -- Your entity's model url here ("rbxassetid://1234567890" or GitHub raw url)
+    Model = "https://github.com/UnavailableScripter/Doors-Models/blob/main/Seeker.rbxm?raw=true", -- Your entity's model url here ("rbxassetid://1234567890" or GitHub raw url)
     Speed = 300,
     MoveDelay = 2,
     HeightOffset = 0,
