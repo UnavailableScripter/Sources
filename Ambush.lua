@@ -5,8 +5,8 @@ local Spawner = loadstring(game:HttpGet("https://raw.githubusercontent.com/Regul
 ---====== Create entity ======---
 
 local Ambush = Spawner.createEntity({
-    CustomName = "Ambush",
-    Model = "https://github.com/UnavailableScripter/Doors-Models/blob/main/Ambush.rbxm?raw=true", -- Your entity's model url here ("rbxassetid://1234567890" or GitHub raw url)
+    CustomName = "A-60",
+    Model = "https://github.com/UnavailableScripter/Doors-Models/blob/main/A-60.rbxm?raw=true", -- Your entity's model url here ("rbxassetid://1234567890" or GitHub raw url)
     Speed = 300,
     MoveDelay = 2,
     HeightOffset = 0,
@@ -26,7 +26,7 @@ local Ambush = Spawner.createEntity({
     CamShake = {
         Enabled = true,
         Values = {16, 20, 16, 4},
-        Range = 100
+        Range = 10
     },
     ResistCrucifix = false,
     BreakCrucifix = true,
